@@ -5,6 +5,7 @@ We have created a presentation that reports us about the concept of File Organis
 Furthermore , we have discussed about the File Organisation Selection . It depends primarily on the type of operation that are to allowed . The same has been explained with the visual representation of charts in the presentation which helps in eludicating the topic much better . 
 
 The primary access methods includes :-
+
 -Serial File Organisation
 -Sequential File Organisation 
 
